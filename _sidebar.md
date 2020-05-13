@@ -1,7 +1,3 @@
-- Getting started
-
-  - [Quick start](quickstart.md)
-
 - Server side
 
 	- [Overview](quickstart.md)
