@@ -8,4 +8,4 @@
 - Simple
 
 [GitHub](https://github.com/0-u-0/)
-[Get Started](#docsify)
+[Get Started](#dugon)
