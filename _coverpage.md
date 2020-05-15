@@ -11,4 +11,4 @@
 [Get Started](#dugon)
 
 
-![color](#f0f0f0)
+<p><img data-origin="linear-gradient(0.25turn, rgb(11, 76, 138,0.8), rgb(200,200,200,0.5), rgb(63, 135, 166,0.8) )" alt="color"></p>
