@@ -1,6 +1,7 @@
 - Server side
 
 	- [Overview](server_overview.md)
+	- [SFU](sfu.md)
 
 - Client side
 	
