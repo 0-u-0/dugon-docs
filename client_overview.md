@@ -1,19 +1,21 @@
 
 # Overview
 
-## Features
+## Platform
 
-- Unified Plan
-- Web, iOS(**WIP**), Android(**WIP**) SDK
-
-
+- Web, iOS, Android SDK
 
 ## Terminology
 
-- **MediaSource** : A wrapper of WebRTC track , e.g., **"video"**, **"audio"**  and **"screen sharing"**.
-- **Session** : You can think of a session as a **"room"** where clients can interact with one another in real-time.
-- **Token** : A token is an identification in the session.
-- **Sender** : A component is used for sending media source.
-- **Receiver** : A component is used for receving media source.
-- **Metadata** : Custom data for clients. 
+### Stream
+
+A **stream** refers to media data obtained from devices such as **microphones**, **cameras**, **screens**, or **files**. Streams can be categorized into **local** streams and **remote** streams.
+
+### User
+
+A **user** refers to an individual participating in the meeting.
+
+### Room
+
+A **room** can process and control **streams** and **users** , including **publish** and **subscribe** streams.
 
