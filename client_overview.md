@@ -3,7 +3,9 @@
 
 ## Platform
 
-- Web, iOS, Android
+- Web, TypeScript
+- iOS, Swift
+- Android, Java
 
 ## Terminology
 
