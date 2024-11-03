@@ -3,7 +3,7 @@
 
 ## Platform
 
-- Web, iOS, Android SDK
+- Web, iOS, Android
 
 ## Terminology
 
